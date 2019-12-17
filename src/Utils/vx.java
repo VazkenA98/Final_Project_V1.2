@@ -1,4 +1,4 @@
 package Utils;
 
-public class ss {
+public class vx {
 }
